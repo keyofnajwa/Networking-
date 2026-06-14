@@ -7,7 +7,7 @@ Proyek ini sepenuhnya bersifat **pembelajaran mandiri (self-paced learning)** da
 ## 📌 Informasi Proyek
 
 - **Tujuan:** Tempat eksperimen, menguji topologi, dan mendokumentasikan pemahaman dasar hingga lanjutan seputar dunia *networking*.
-- **Alat yang Digunakan:** Cisco Packet Tracer, GNS3, atau perangkat simulasi lainnya.
+- **Alat yang Digunakan:** Cisco Packet Tracer
 - **Fokus Belajar:** Memahami cara kerja perangkat jaringan, konfigurasi dasar, routing, switching, dan troubleshooting secara mandiri.
 
 ---
