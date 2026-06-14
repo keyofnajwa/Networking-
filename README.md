@@ -1,22 +1,14 @@
-# Networking-essenstials
-# 🌐 Cisco Networking Labs
+# 🌐 Jaringan (Pembelajaran Mandiri)
 
-Repositori ini berisi dokumentasi, catatan teori, dan file praktikum (*lab simulation*) selama proses belajar jaringan komputer menggunakan teknologi **Cisco**.
+Repositori ini dibuat khusus sebagai wadah dokumentasi, catatan, dan file praktikum (*simulasi lab*) selama saya belajar jaringan komputer secara otodidak. 
+
+Proyek ini sepenuhnya bersifat **pembelajaran mandiri (self-paced learning)** dan berjalan terpisah di luar modul atau kurikulum resmi Cisco.
+
+## 📌 Informasi Proyek
+
+- **Tujuan:** Tempat eksperimen, menguji topologi, dan mendokumentasikan pemahaman dasar hingga lanjutan seputar dunia *networking*.
+- **Alat yang Digunakan:** Cisco Packet Tracer, GNS3, atau perangkat simulasi lainnya.
+- **Fokus Belajar:** Memahami cara kerja perangkat jaringan, konfigurasi dasar, routing, switching, dan troubleshooting secara mandiri.
 
 ---
-
-## 📌 Informasi Repositori
-
-* **Tujuan:** Wadah dokumentasi materi dan konfigurasi perangkat Cisco (Routing, Switching, & Security).
-* **Tools Utama:** Cisco Packet Tracer / GNS3.
-* **Target Materi:** Fundamen Jaringan, VLAN, Inter-VLAN Routing, Static & Dynamic Routing (OSPF), ACL, dan NAT.
-
----
-
-## 📂 Struktur Folder
-
-```text
-├── 01-Network-Fundamentals/   # Teori dasar & IP Subnetting
-├── 02-Switching-Labs/          # Lab VLAN, Trunking, & Spanning Tree
-├── 03-Routing-Labs/            # Lab Static Routing & OSPF
-└── 04-Network-Security/        # Lab ACL & NAT
+*Catatan: Isi dari repositori ini akan terus diperbarui secara fleksibel seiring berjalannya proses belajar.*
